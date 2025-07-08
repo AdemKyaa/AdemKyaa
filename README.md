@@ -14,8 +14,6 @@
 - 🎓 Computer Engineering graduate from **Doğuş University**  
 - 🎮 Experienced in developing mobile games, shaders, and rendering pipelines  
 - 🧠 Exploring AI, agentic systems, and BERT-based NLP models  
-- 🌍 Portfolio → [ademkaya-f2973.web.app](https://ademkaya-f2973.web.app)  
-- 🧾 ORCID → [0009-0009-6214-9445](https://orcid.org/0009-0009-6214-9445)
 
 ---
 
