@@ -1,11 +1,10 @@
-![image](https://github.com/user-attachments/assets/62d4b8f9-c65d-4894-a358-761336636208)<h1 align="center">Hi 👋 I'm Adem Kaya</h1>
+<h1 align="center">Hi 👋 I'm Adem Kaya</h1>
 <h3 align="center">Game Developer · Shader Artist · Software & AI Enthusiast</h3>
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="200" title="Game Dev – Code"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlqc3VlNzk0MXlrcDI5aHRsN3JrdDd1NDZlcTZobjZ3dGd5M2hoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/npaQLzcuyvhWKorZ6h/giphy.gif" height="200" title="Shader & Graphics"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="200" title="Data & AI"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="150" title="Game Dev – Code"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlqc3VlNzk0MXlrcDI5aHRsN3JrdDd1NDZlcTZobjZ3dGd5M2hoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/npaQLzcuyvhWKorZ6h/giphy.gif" height="150" title="Shader & Graphics"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="150" title="Data & AI"/>
 </p>
 
 ---
@@ -24,8 +23,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40"
-/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
