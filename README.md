@@ -2,9 +2,9 @@
 <h3 align="center">Game Developer · Shader Artist · Software & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" title="Game Dev – Code"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlqc3VlNzk0MXlrcDI5aHRsN3JrdDd1NDZlcTZobjZ3dGd5M2hoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/npaQLzcuyvhWKorZ6h/giphy.gif" width="250" title="Shader & Graphics"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" title="Data & AI"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" height="180" title="Game Dev – Code"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlqc3VlNzk0MXlrcDI5aHRsN3JrdDd1NDZlcTZobjZ3dGd5M2hoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/npaQLzcuyvhWKorZ6h/giphy.gif" width="250" height="180" title="Shader & Graphics"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" height="180" title="Data & AI"/>
 </p>
 
 ---
