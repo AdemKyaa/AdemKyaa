@@ -3,8 +3,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="150" title="Game Dev – Code"/>
-  <
-img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlqc3VlNzk0MXlrcDI5aHRsN3JrdDd1NDZlcTZobjZ3dGd5M2hoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/npaQLzcuyvhWKorZ6h/giphy.gif" height="150" title="Shader & Graphics"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlqc3VlNzk0MXlrcDI5aHRsN3JrdDd1NDZlcTZobjZ3dGd5M2hoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/npaQLzcuyvhWKorZ6h/giphy.gif" height="150" title="Shader & Graphics"/>
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="150" title="Data & AI"/>
 </p>
 
