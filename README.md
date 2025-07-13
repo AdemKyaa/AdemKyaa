@@ -63,11 +63,96 @@
 
 ---
 
-#### 🎨 Seamless Converter Shader
+#### 🎨 Seamless Converter Shader  
 > Hex-based triplanar projection shader for Unity. Removes tiling artifacts using randomized UV offset blending.  
 > _Shader Graph · HLSL · Unity URP/HDRP · Texture Tools_
 
 ---
+
+#### 🔁 Roll Shader  
+> Wraps mesh geometry from one end to the other using vertex displacement, ideal for animated transitions and effects.  
+> _Shader Graph · HLSL · Unity URP/HDRP · Vertex Animation_
+
+---
+
+#### 🧱 Toon Shader  
+> Stylized lighting with crisp shadows and optional outlines, ideal for comic-style visuals and low-poly aesthetics.  
+> _Shader Graph · HLSL · Unity URP/HDRP · NPR Rendering_
+
+---
+
+#### 🌊 Toon Water Shader  
+> Features animated ripples, foam, and stylized wave behavior for cartoonish or low-poly water rendering.  
+> _Shader Graph · HLSL · Unity URP/HDRP · Stylized FX_
+
+---
+
+#### 🕳 Hole Shader  
+> Simulates dynamic 3D holes on surfaces and enables objects to fall through via custom depth masking logic.  
+> _Shader Graph · HLSL · Unity URP/HDRP · Mesh Interaction_
+
+---
+
+#### 💎 Crystal Effect Shader  
+> Reflective crystal shader with camera-angle-based lighting and cavity shading for a stylized, dynamic surface.  
+> _Shader Graph · HLSL · Unity URP/HDRP · Stylized Materials_
+
+---
+
+#### 🎭 Character Portrait Shader  
+> Customizable UI shader for character portraits with animated background, borders, and character layers.  
+> _Shader Graph · Unity UI · URP · Custom Animation_
+
+---
+
+#### 🔦 Subsurface Scattering Shader  
+> Simulates light transmission through soft surfaces like skin or wax using screen-space subsurface diffusion.  
+> _Shader Graph · HLSL · Unity URP · Organic Materials_
+
+---
+
+#### 🧪 Fill Shader  
+> Simulates fluid inside a container with physics-based bounce and dynamic fill control via exposed slider.  
+> _Shader Graph · Unity UI · URP · Procedural Animation_
+
+---
+
+#### 🎯 Bulge Shader  
+> Applies mesh deformation with adjustable radius, softness and bulge strength, ideal for stylized interactions.  
+> _Shader Graph · HLSL · Unity URP/HDRP · Mesh Deformation_
+
+---
+
+#### 🌈 Auto Color Complete Shader  
+> Creates smooth stepped gradients between two user-defined colors for procedural coloring and UI design.  
+> _Shader Graph · HLSL · Unity URP · Gradient Mapping_
+
+---
+
+#### 📐 Triplanar Projection Shader  
+> Projects textures on all three axes with seamless blending, eliminating the need for UV mapping.  
+> _Shader Graph · HLSL · Unity URP/HDRP · Texture Projection_
+
+---
+
+#### 🪐 Spherical Projection Shader  
+> Maps textures to spherical surfaces using polar coordinates, perfect for globes and curved geometry.  
+> _Shader Graph · HLSL · Unity URP · Advanced UVs_
+
+---
+
+#### 🔄 Shader Graph Integrations  
+> All shaders are fully compatible with URP, HDRP, and Built-in pipelines; each tested in production setups.  
+> _Shader Graph · URP · HDRP · Built-in Support_
+
+---
+
+#### 🟢 Wobble Shader  
+> Slime-like material with real-time squash and stretch reactions to motion and collisions for soft-body visuals.  
+> _Shader Graph · HLSL · Unity URP · Physics-Based FX_
+
+---
+
 
 #### 📄 Agentic vs Traditional AI (Conference Paper)  
 > Comparative research on reactive vs agentic AI systems — architectural flexibility, planning, ethics, and use cases in healthcare, robotics, and customer support.  
@@ -83,29 +168,7 @@
 
 ### 🕹 Games I Contributed To
 
-- 🎮 [Age Clash](https://apps.apple.com/tr/app/age-clash/id6447256658?l=tr)
-- 🎮 [Aqua Match](https://apps.apple.com/tr/app/aqua-match/id6739291923?l=tr)
-- 🎮 [Balls n Holes](https://play.google.com/store/apps/details?id=com.EastGameStudio.BallsnHoles&hl=en_US)
-- 🎮 [Barrel Up](https://play.google.com/store/apps/details?id=com.EastGameStudio.BarrelUp&hl=en_US)
-- 🎮 [Bullet Sort](https://play.google.com/store/apps/details?id=com.EastGameStudio.BulletSort&hl=en)
-- 🎮 [Car Lot Jam](https://play.google.com/store/apps/details?id=com.EastGameStudio.CarLotJam&hl=en)
-- 🎮 [Card Slide Sort](https://play.google.com/store/apps/details?id=com.EastGameStudio.CardSlideSort&hl=en_US)
-- 🎮 [Color Demolish](https://play.google.com/store/apps/details?id=com.EastGameStudio.ColorDemolish&hl=en_US)
-- 🎮 [Conquer Jam](https://play.google.com/store/apps/details?id=com.EastGameStudio.ConquerJam&hl=en_US)
-- 🎮 [Domino ASMR 3D](https://apps.apple.com/tr/app/domino-asmr-3d/id1645752523?l=tr)
-- 🎮 [Fill The Bus](https://play.google.com/store/apps/details?id=com.EastGameStudio.FillTheBus&hl=en_US)
-- 🎮 [Gear Gun](https://play.google.com/store/apps/details?id=com.EastGameStudio.GearGun&hl=en)
-- 🎮 [Gravity Merge](https://play.google.com/store/apps/details?id=com.EastGameStudio.GravityMerge&hl=en_US)
-- 🎮 [Hook Catch](https://play.google.com/store/apps/details?id=com.EastGameStudio.HookCatch&hl=en_US)
-- 🎮 [Juggler Evolution](https://play.google.com/store/apps/details?id=com.EastGameStudio.JugglerEvolution&hl=en_US)
-- 🎮 [Killing Order](https://play.google.com/store/apps/details?id=com.EastGameStudio.KillingOrder&hl=en_US)
-- 🎮 [Parking Match](https://apps.apple.com/tr/app/parking-match/id1626725246?l=tr)
-- 🎮 [Spellcaster 3D](https://apps.apple.com/tr/app/spellcaster-3d/id1632902506?l=tr)
-- 🎮 [Splatter Cube](https://apps.apple.com/tr/app/splatter-cube/id1620762210?l=tr)
-- 🎮 [Tile Stack Jam](https://apps.apple.com/tr/app/tile-stack-jam/id6739998216?l=tr)
-- 🎮 [Turn 2 Sort](https://apps.apple.com/tr/app/turn-2-sort/id1640230499?l=tr)
-- 🎮 [Word Jam](https://play.google.com/store/apps/details?id=com.EastGameStudio.WordJam&hl=en_US)
-- 🎮 [Zombie Hole](https://play.google.com/store/apps/details?id=com.EastGameStudio.ZombieHole&hl=en_US)
+<table> <tr> <td align="center"> <a href="https://apps.apple.com/tr/app/age-clash/id6447256658?l=tr" target="_blank"> <img src="assets/games/1-age-clash.webp" width="100"/><br/>Age Clash </a> </td> <td align="center"> <a href="https://apps.apple.com/tr/app/aqua-match/id6739291923?l=tr" target="_blank"> <img src="assets/games/2-aqua-match.webp" width="100"/><br/>Aqua Match </a> </td> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.BallsnHoles&hl=en_US" target="_blank"> <img src="assets/games/3-balls-n-holes.webp" width="100"/><br/>Balls n Holes </a> </td> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.BarrelUp&hl=en_US" target="_blank"> <img src="assets/games/4-barrel-up.webp" width="100"/><br/>Barrel Up </a> </td> </tr> <tr> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.BulletSort&hl=en" target="_blank"> <img src="assets/games/5-bullet-sort.webp" width="100"/><br/>Bullet Sort </a> </td> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.CarLotJam&hl=en" target="_blank"> <img src="assets/games/6-car-lot-jam.webp" width="100"/><br/>Car Lot Jam </a> </td> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.CardSlideSort&hl=en_US" target="_blank"> <img src="assets/games/7-card-slide-sort.webp" width="100"/><br/>Card Slide Sort </a> </td> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.ColorDemolish&hl=en_US" target="_blank"> <img src="assets/games/8-color-demolish.webp" width="100"/><br/>Color Demolish </a> </td> </tr> <tr> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.ConquerJam&hl=en_US" target="_blank"> <img src="assets/games/9-conquer-jam.webp" width="100"/><br/>Conquer Jam </a> </td> <td align="center"> <a href="https://apps.apple.com/tr/app/domino-asmr-3d/id1645752523?l=tr" target="_blank"> <img src="assets/games/10-domino-asmr-3d.webp" width="100"/><br/>Domino ASMR 3D </a> </td> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.FillTheBus&hl=en_US" target="_blank"> <img src="assets/games/11-fill-the-bus.webp" width="100"/><br/>Fill The Bus </a> </td> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.GearGun&hl=en" target="_blank"> <img src="assets/games/12-gear-gun.webp" width="100"/><br/>Gear Gun </a> </td> </tr> <tr> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.GravityMerge&hl=en_US" target="_blank"> <img src="assets/games/13-gravity-merge.webp" width="100"/><br/>Gravity Merge </a> </td> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.HookCatch&hl=en_US" target="_blank"> <img src="assets/games/14-hook-n-catch.webp" width="100"/><br/>Hook Catch </a> </td> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.JugglerEvolution&hl=en_US" target="_blank"> <img src="assets/games/15-juggler-evolution.webp" width="100"/><br/>Juggler Evolution </a> </td> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.KillingOrder&hl=en_US" target="_blank"> <img src="assets/games/16-killing-order.webp" width="100"/><br/>Killing Order </a> </td> </tr> <tr> <td align="center"> <a href="https://apps.apple.com/tr/app/parking-match/id1626725246?l=tr" target="_blank"> <img src="assets/games/17-parking-match.webp" width="100"/><br/>Parking Match </a> </td> <td align="center"> <a href="https://apps.apple.com/tr/app/spellcaster-3d/id1632902506?l=tr" target="_blank"> <img src="assets/games/18-spellcaster-3d.webp" width="100"/><br/>Spellcaster 3D </a> </td> <td align="center"> <a href="https://apps.apple.com/tr/app/splatter-cube/id1620762210?l=tr" target="_blank"> <img src="assets/games/19-splatter-cube.webp" width="100"/><br/>Splatter Cube </a> </td> <td align="center"> <a href="https://apps.apple.com/tr/app/tile-stack-jam/id6739998216?l=tr" target="_blank"> <img src="assets/games/20-tile-stack-jam.webp" width="100"/><br/>Tile Stack Jam </a> </td> </tr> <tr> <td align="center"> <a href="https://apps.apple.com/tr/app/turn-2-sort/id1640230499?l=tr" target="_blank"> <img src="assets/games/21-turn-2-sort.webp" width="100"/><br/>Turn 2 Sort </a> </td> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.WordJam&hl=en_US" target="_blank"> <img src="assets/games/22-word-jam.webp" width="100"/><br/>Word Jam </a> </td> <td align="center"> <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.ZombieHole&hl=en_US" target="_blank"> <img src="assets/games/23-zombie-hole.webp" width="100"/><br/>Zombie Hole </a> </td> </tr> </table>
 
 ---
 
