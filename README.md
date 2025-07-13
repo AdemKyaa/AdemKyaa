@@ -170,7 +170,7 @@
 
 <div align="center">
 
-<table>
+<table border="0">
   <tr>
     <td align="center" style="border:none;">
       <a href="https://apps.apple.com/tr/app/age-clash/id6447256658?l=tr" target="_blank">
