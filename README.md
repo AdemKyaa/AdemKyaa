@@ -170,35 +170,127 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://apps.apple.com/tr/app/age-clash/id6447256658?l=tr"><img src="1-age-clash.webp" width="80"/><br/>Age Clash</a></td>
-    <td align="center"><a href="https://apps.apple.com/tr/app/aqua-match/id6739291923?l=tr"><img src="2-aqua-match.webp" width="80"/><br/>Aqua Match</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.BallsnHoles"><img src="3-balls-n-holes.webp" width="80"/><br/>Balls n Holes</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.BarrelUp"><img src="4-barrel-up.webp" width="80"/><br/>Barrel Up</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.BulletSort"><img src="5-bullet-sort.webp" width="80"/><br/>Bullet Sort</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.CarLotJam"><img src="6-car-lot-jam.webp" width="80"/><br/>Car Lot Jam</a></td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/age-clash/id6447256658?l=tr" target="_blank">
+        <img src="assets/games/1-age-clash.webp" width="100"/><br/>Age Clash
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/aqua-match/id6739291923?l=tr" target="_blank">
+        <img src="assets/games/2-aqua-match.webp" width="100"/><br/>Aqua Match
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.BallsnHoles&hl=en_US" target="_blank">
+        <img src="assets/games/3-balls-n-holes.webp" width="100"/><br/>Balls n Holes
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.BarrelUp&hl=en_US" target="_blank">
+        <img src="assets/games/4-barrel-up.webp" width="100"/><br/>Barrel Up
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.BulletSort&hl=en" target="_blank">
+        <img src="assets/games/5-bullet-sort.webp" width="100"/><br/>Bullet Sort
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.CarLotJam&hl=en" target="_blank">
+        <img src="assets/games/6-car-lot-jam.webp" width="100"/><br/>Car Lot Jam
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.CardSlideSort"><img src="7-card-slide-sort.webp" width="80"/><br/>Card Slide Sort</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.ColorDemolish"><img src="8-color-demolish.webp" width="80"/><br/>Color Demolish</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.ConquerJam"><img src="9-conquer-jam.webp" width="80"/><br/>Conquer Jam</a></td>
-    <td align="center"><a href="https://apps.apple.com/tr/app/domino-asmr-3d/id1645752523?l=tr"><img src="10-domino-asmr-3d.webp" width="80"/><br/>Domino ASMR 3D</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.FillTheBus"><img src="11-fill-the-bus.webp" width="80"/><br/>Fill The Bus</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.GearGun"><img src="12-gear-gun.webp" width="80"/><br/>Gear Gun</a></td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.CardSlideSort&hl=en_US" target="_blank">
+        <img src="assets/games/7-card-slide-sort.webp" width="100"/><br/>Card Slide Sort
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.ColorDemolish&hl=en_US" target="_blank">
+        <img src="assets/games/8-color-demolish.webp" width="100"/><br/>Color Demolish
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.ConquerJam&hl=en_US" target="_blank">
+        <img src="assets/games/9-conquer-jam.webp" width="100"/><br/>Conquer Jam
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/domino-asmr-3d/id1645752523?l=tr" target="_blank">
+        <img src="assets/games/10-domino-asmr-3d.webp" width="100"/><br/>Domino ASMR 3D
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.FillTheBus&hl=en_US" target="_blank">
+        <img src="assets/games/11-fill-the-bus.webp" width="100"/><br/>Fill The Bus
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.GearGun&hl=en" target="_blank">
+        <img src="assets/games/12-gear-gun.webp" width="100"/><br/>Gear Gun
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.GravityMerge"><img src="13-gravity-merge.webp" width="80"/><br/>Gravity Merge</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.HookCatch"><img src="14-hook-n-catch.webp" width="80"/><br/>Hook Catch</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.JugglerEvolution"><img src="15-juggler-evolution.webp" width="80"/><br/>Juggler Evolution</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.KillingOrder"><img src="16-killing-order.webp" width="80"/><br/>Killing Order</a></td>
-    <td align="center"><a href="https://apps.apple.com/tr/app/parking-match/id1626725246?l=tr"><img src="17-parking-match.webp" width="80"/><br/>Parking Match</a></td>
-    <td align="center"><a href="https://apps.apple.com/tr/app/spellcaster-3d/id1632902506?l=tr"><img src="18-spellcaster-3d.webp" width="80"/><br/>Spellcaster 3D</a></td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.GravityMerge&hl=en_US" target="_blank">
+        <img src="assets/games/13-gravity-merge.webp" width="100"/><br/>Gravity Merge
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.HookCatch&hl=en_US" target="_blank">
+        <img src="assets/games/14-hook-n-catch.webp" width="100"/><br/>Hook Catch
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.JugglerEvolution&hl=en_US" target="_blank">
+        <img src="assets/games/15-juggler-evolution.webp" width="100"/><br/>Juggler Evolution
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.KillingOrder&hl=en_US" target="_blank">
+        <img src="assets/games/16-killing-order.webp" width="100"/><br/>Killing Order
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/parking-match/id1626725246?l=tr" target="_blank">
+        <img src="assets/games/17-parking-match.webp" width="100"/><br/>Parking Match
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/spellcaster-3d/id1632902506?l=tr" target="_blank">
+        <img src="assets/games/18-spellcaster-3d.webp" width="100"/><br/>Spellcaster 3D
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://apps.apple.com/tr/app/splatter-cube/id1620762210?l=tr"><img src="19-splatter-cube.webp" width="80"/><br/>Splatter Cube</a></td>
-    <td align="center"><a href="https://apps.apple.com/tr/app/tile-stack-jam/id6739998216?l=tr"><img src="20-tile-stack-jam.webp" width="80"/><br/>Tile Stack Jam</a></td>
-    <td align="center"><a href="https://apps.apple.com/tr/app/turn-2-sort/id1640230499?l=tr"><img src="21-turn-2-sort.webp" width="80"/><br/>Turn 2 Sort</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.WordJam"><img src="22-word-jam.webp" width="80"/><br/>Word Jam</a></td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.ZombieHole"><img src="23-zombie-hole.webp" width="80"/><br/>Zombie Hole</a></td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/splatter-cube/id1620762210?l=tr" target="_blank">
+        <img src="assets/games/19-splatter-cube.webp" width="100"/><br/>Splatter Cube
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/tile-stack-jam/id6739998216?l=tr" target="_blank">
+        <img src="assets/games/20-tile-stack-jam.webp" width="100"/><br/>Tile Stack Jam
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/turn-2-sort/id1640230499?l=tr" target="_blank">
+        <img src="assets/games/21-turn-2-sort.webp" width="100"/><br/>Turn 2 Sort
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.WordJam&hl=en_US" target="_blank">
+        <img src="assets/games/22-word-jam.webp" width="100"/><br/>Word Jam
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.ZombieHole&hl=en_US" target="_blank">
+        <img src="assets/games/23-zombie-hole.webp" width="100"/><br/>Zombie Hole
+      </a>
+    </td>
     <td></td>
   </tr>
 </table>
