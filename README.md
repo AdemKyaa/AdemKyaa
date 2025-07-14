@@ -28,7 +28,7 @@
 **Game Design**: Unity, GameMaker, Programming, Level Design<br>
 **Graphic Design**: Blender, 3D Modelling, HLSL, Shader Development, Animation, Shader Graph, Custom Renderer, 2D Pixel Drawing<br>
 **Data Analysis**: Weka, MLP, Naive Bayes, KNN, scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib<br>
-**Languages**: Türkçe - Ana Dil, İngilizce - B2, Fransızca - A1<br>
+**Languages**: Turkish - Native, English - C1
 
 
 <p align="center">
