@@ -15,7 +15,6 @@
 - 🎓 High School Diploma, Mathematics (Habire Yahşi Anatolian High School | Sep 2016 - Jun 2020)
 
 
-- 🎓 Computer Engineering graduate from **Doğuş University**  
 - 🎮 Experienced in developing mobile games, shaders, and rendering pipelines  
 - 🧠 Exploring AI, agentic systems, and BERT-based NLP models  
 
