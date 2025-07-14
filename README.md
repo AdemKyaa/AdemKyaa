@@ -23,12 +23,12 @@
 
 ### ⚙️ Tech Stack
 
-**Programming Languages**: C#, C++, Java, Python
-**Web Technologies**: HTML, CSS, PHP, ASPX, SQL
-**Game Design**: Unity, GameMaker, Programming, Level Design
-**Graphic Design**: Blender, 3D Modelling, HLSL, Shader Development, Animation, Shader Graph, Custom Renderer, 2D Pixel Drawing
-**Data Analysis**: Weka, MLP, Naive Bayes, KNN, scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib
-**Languages**: Türkçe - Ana Dil, İngilizce - B2, Fransızca - A1
+**Programming Languages**: C#, C++, Java, Python<br>
+**Web Technologies**: HTML, CSS, PHP, ASPX, SQL<br>
+**Game Design**: Unity, GameMaker, Programming, Level Design<br>
+**Graphic Design**: Blender, 3D Modelling, HLSL, Shader Development, Animation, Shader Graph, Custom Renderer, 2D Pixel Drawing<br>
+**Data Analysis**: Weka, MLP, Naive Bayes, KNN, scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib<br>
+**Languages**: Türkçe - Ana Dil, İngilizce - B2, Fransızca - A1<br>
 
 
 <p align="center">
