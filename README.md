@@ -23,7 +23,8 @@
 ### ⚙️ Tech Stack
 
 **Programming Languages**: C#, C++, Java, Python<br>
-**Web Technologies**: HTML, CSS, PHP, ASPX, SQL<br>
+**Web Technologies**: HTML, CSS, PHP, ASPX, SQL, VUE.JS, Firebase<br>
+**Mobile App**: Flutter, Socket.io, LibreTranslate, Node.js<br>
 **Game Design**: Unity, GameMaker, Programming, Level Design<br>
 **Graphic Design**: Blender, 3D Modelling, HLSL, Shader Development, Animation, Shader Graph, Custom Renderer, 2D Pixel Drawing<br>
 **Data Analysis**: Weka, MLP, Naive Bayes, KNN, scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib<br>
@@ -165,6 +166,13 @@
 
 ---
 
+#### 💻 Frontend & Backend Intern @ Experilabs  
+> Worked on a web-based restaurant tycoon game and a realtime chatting application. Focused on **frontend development** with Vue.js, TypeScript, and Flutter while also handling **backend integration** using Node.js, Firebase, and PostgreSQL.  
+> Contributed to features such as user authentication, drag-and-drop UI mechanics, responsive design, admin panel foundations, and realtime communication with Socket.io.  
+> _Vue.js · TypeScript · Firebase · Flutter · Node.js · PostgreSQL · Socket.io · Frontend · Backend_
+
+---
+
 ### 🕹 Games I Contributed To
 
 <div align="center">
@@ -290,6 +298,11 @@
     <td align="center" style="border:none;">
       <a href="https://play.google.com/store/apps/details?id=com.EastGameStudio.ZombieHole&hl=en_US" target="_blank">
         <img src="assets/games/23-zombie-hole.webp" width="100"/><br/>Zombie Hole
+      </a>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://restaurant-tycoon.netlify.app/" target="_blank">
+        <img src="assets/games/logo.webp" width="100"/><br/>Zombie Hole
       </a>
     </td>
   </tr>
