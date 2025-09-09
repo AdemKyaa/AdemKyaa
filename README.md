@@ -353,7 +353,7 @@
   <tr>
     <td align="center" style="border:none;">
       <a href="https://assetstore.unity.com/packages/vfx/shaders/seamless-converter-shader-320858" target="_blank">
-        <img src="seamless.webp" width="100"/><br/>Seamless Shader
+        <img src="assets/assets/seamless.webp" width="100"/><br/>Seamless Shader
       </a>
     </td>
   </tr>
