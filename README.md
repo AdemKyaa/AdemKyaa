@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Adem Kaya</h1>
-<h3 align="center">Game Developer · Shader Artist · Software & AI Enthusiast</h3>
+<h3 align="center">Game Developer · Shader Artist · Asset Creator · Software & AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="150" title="Game Dev – Code"/>
@@ -199,6 +199,13 @@
 
 ---
 
+#### 🎮 Game Maker & Asset Creator @ Occlusionn  
+> Developing indie **party-style PC games** and creating professional **shader assets** for Unity. Focused on gameplay design, rendering pipelines, and advanced shader systems.  
+> Experienced in building stylized effects, optimization tools, and custom rendering solutions for game developers.  
+> _Unity · Blender · Shader Graph · C# · HLSL · Game Design · Asset Development_
+
+---
+
 ### 🕹 Games I Contributed To
 
 <div align="center">
@@ -329,6 +336,24 @@
     <td align="center" style="border:none;">
       <a href="https://restaurant-tycoon.netlify.app/" target="_blank">
         <img src="assets/games/logo.webp" width="100"/><br/>Restaurant Tycoon
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🕹 Assets I made
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://assetstore.unity.com/packages/vfx/shaders/seamless-converter-shader-320858" target="_blank">
+        <img src="seamless.webp" width="100"/><br/>Seamless Shader
       </a>
     </td>
   </tr>
