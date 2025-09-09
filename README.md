@@ -315,8 +315,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdemKyaa&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemKyaa&layout=compact&theme=radical" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdemKyaa&show_icons=true&theme=radical&v=2" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemKyaa&layout=compact&theme=radical&v=2" width="340"/>
 </p>
 
 ---
