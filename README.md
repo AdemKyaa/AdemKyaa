@@ -328,7 +328,7 @@
     </td>
     <td align="center" style="border:none;">
       <a href="https://restaurant-tycoon.netlify.app/" target="_blank">
-        <img src="assets/games/logo.webp" width="100"/><br/>Zombie Hole
+        <img src="assets/games/logo.webp" width="100"/><br/>Restaurant Tycoon
       </a>
     </td>
   </tr>
